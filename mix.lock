@@ -1,0 +1,3 @@
+%{
+  "apoc": {:hex, :apoc, "0.2.0", "cdb7a32b1f733439c507550a701def27aa1b1950fc752a4b3a4061529b21c010", [:mix], [], "hexpm"},
+}
